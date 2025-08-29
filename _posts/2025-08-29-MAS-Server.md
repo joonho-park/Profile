@@ -8,3 +8,7 @@ tags:
 - project
 comments: false
 ---
+
+## MAS-Server
+
+Postgre DB 쿼리, Redis Pub/Sub 등 을 이용한 서버 프로그램 개발.
