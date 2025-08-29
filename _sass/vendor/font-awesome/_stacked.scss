@@ -8,6 +8,8 @@
   height: 2em;
   line-height: 2em;
   vertical-align: middle;
+    background-color: $fa-stack-bg; // 배경색 추가
+  border-radius: 0.25em; // 원하면 약간 둥글게
 }
 .#{$fa-css-prefix}-stack-1x, .#{$fa-css-prefix}-stack-2x {
   position: absolute;
