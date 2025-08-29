@@ -4,6 +4,7 @@ title:  "Log Detector"
 date:   2025-08-29
 excerpt: "Log Delay/Reversal/Notcoming/Missing Detector"
 project: true
+company: "Doople"
 tags:
 - project
 comments: false
