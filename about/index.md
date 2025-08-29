@@ -6,7 +6,7 @@ date: 2016-03-21
 comments: false
 ---
     
-<center><a href="http://joonho-park.github.io/"><b>박준호</b></a> .NET 4년차 개발자</center>
+<center><a href="http://joonho-park.github.io/"><b>박준호</b></a> .NET 개발자</center>
 
 ## Features
 
