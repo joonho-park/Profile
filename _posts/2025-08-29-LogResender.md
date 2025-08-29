@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Log Resender"
 date:   2025-08-29
 excerpt: "Log Change Header/Body Resender"
