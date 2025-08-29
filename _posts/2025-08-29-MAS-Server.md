@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "MAS-Server"
-start_date: 2023-10-04
-end_date: 2024-03-07
+start_date: 2023-05-03
+end_date: 2025-08-29
 excerpt: "Monitoring Application System Server"
 project: true
 company: "Doople"
