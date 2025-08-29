@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "Log Detector"
-date: 2024
+start_date: 2023-10-04
+end_date: 2024-03-07
 excerpt: "Log Delay/Reversal/Notcoming/Missing Detector"
 project: true
 company: "Doople"
