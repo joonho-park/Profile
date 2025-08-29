@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title:  "Log Detector"
 date:   2025-08-29
 excerpt: "Log Delay/Reversal/Notcoming/Missing Detector"
