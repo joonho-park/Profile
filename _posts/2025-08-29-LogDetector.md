@@ -21,12 +21,4 @@ comments: false
 Log 파일 빠르게 읽고 Abnormal Case 판별 가능
 46,400KB Receive.log / 68,543KB Send.log => 판별 1.3s 소요
 
-[LogDetectionTool.pptx 열기](/_document/LogDetectionTool.pptx)
-
-[LogDetectionTool.pdf 열기](/assets/pdf/LogDetectionTool.pdf)
-
-<iframe 
-  src="/_document/LogDetectionTool.pdf" 
-  width="100%" 
-  height="800px">
-</iframe>
+[[PPT]LogDetectionTool](/assets/pdf/LogDetectionTool.pdf)
