@@ -23,10 +23,8 @@ Log 파일 빠르게 읽고 Abnormal Case 판별 가능
 
 [LogDetectionTool.pptx 열기](/_document/LogDetectionTool.pptx)
 
-
 <iframe 
-  src="https://view.officeapps.live.com/op/embed.aspx?src={{ site.url }}/_document/LogDetectionTool.pptx" 
+  src="/_document/LogDetectionTool.pdf" 
   width="100%" 
-  height="800" 
-  frameborder="0">
+  height="800px">
 </iframe>
