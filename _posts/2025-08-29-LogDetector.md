@@ -22,3 +22,11 @@ Log 파일 빠르게 읽고 Abnormal Case 판별 가능
 46,400KB Receive.log / 68,543KB Send.log => 판별 1.3s 소요
 
 [LogDetectionTool.pptx 열기](/_document/LogDetectionTool.pptx)
+
+
+<iframe 
+  src="https://view.officeapps.live.com/op/embed.aspx?src={{ site.url }}/_document/LogDetectionTool.pptx" 
+  width="100%" 
+  height="800" 
+  frameborder="0">
+</iframe>
