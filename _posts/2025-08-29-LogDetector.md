@@ -20,3 +20,5 @@ comments: false
 내가 원하는 시간대의 Log들만 판별 가능
 Log 파일 빠르게 읽고 Abnormal Case 판별 가능
 46,400KB Receive.log / 68,543KB Send.log => 판별 1.3s 소요
+
+[LogDetectionTool.pptx 열기](/_document/LogDetectionTool.pptx)
